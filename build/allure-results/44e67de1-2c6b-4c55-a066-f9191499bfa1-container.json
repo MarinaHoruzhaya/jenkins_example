@@ -1,0 +1,1 @@
+{"uuid":"44e67de1-2c6b-4c55-a066-f9191499bfa1","name":"RegistrationRemoteTests","children":["f704fa32-a53a-4edf-b22a-95de8590a358"],"befores":[{"name":"beforeAll","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694631836373,"stop":1694631836390}],"afters":[],"start":1694631836327,"stop":1694631848161}

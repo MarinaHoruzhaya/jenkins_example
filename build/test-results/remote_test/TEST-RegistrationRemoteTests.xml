@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RegistrationRemoteTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-13T19:04:37" hostname="WIN-2IIN7F880J6" time="13.797">
+  <properties/>
+  <testcase name="fillFormTest()" classname="RegistrationRemoteTests" time="13.797"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[сент. 13, 2023 10:04:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+]]></system-err>
+</testsuite>
